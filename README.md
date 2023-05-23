@@ -5,9 +5,7 @@
 
 - 📫 How to reach me **cenkeraydin14@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cenker-aydin/" target="blank"><img align="center"  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
