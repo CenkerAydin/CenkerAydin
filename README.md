@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cenker</h1>
-- 🔭 I’m currently working on Java And SQL
+- 🔭 I’m currently working on Java And Kotlin
 
 - 🌱 I’m currently learning **Java And Kotlin**
 
