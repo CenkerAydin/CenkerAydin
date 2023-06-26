@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java And Kotlin**
 
-- 📫 How to reach me **cenkeraydin14@gmail.com**
+- 📫 How to reach me **cenkeraydincse@gmail.com**
 
 
 </p>
